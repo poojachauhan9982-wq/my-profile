@@ -1,4 +1,4 @@
-[![MasterHead](https://copilot.microsoft.com/th/id/BCO.74fc4227-afaa-4375-b04d-495a433a47a7.png)](https://www.linkedin.com/in/pooja-chauhan04)
+[![MasterHead](https://copilot.microsoft.com/th/id/BCO.90e1b776-9199-40f5-8c77-236d418b5b1f.png)](https://www.linkedin.com/in/pooja-chauhan04)
 
 <h1 align="center">Hi 👋, I'm Pooja Chauhan</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau | Excel</h3>
