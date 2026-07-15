@@ -1,5 +1,7 @@
+[![MasterHead](https://copilot.microsoft.com/th/id/BCO.74fc4227-afaa-4375-b04d-495a433a47a7.png)](https://www.linkedin.com/in/pooja-chauhan04)
+
 <h1 align="center">Hi 👋, I'm Pooja Chauhan</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau</h3>
+<h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau | Excel</h3>
 
 ---
 
@@ -74,8 +76,8 @@
 
 ### 📫 Connect with Me
 📧 Email: [poojachauhan9982@gmail.com](mailto:poojachauhan9982@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-username)
+🔗 LinkedIn: [www.linkedin.com/in/pooja-chauhan04](https://www.linkedin.com/in/pooja-chauhan04)
 
 ---
 
-⭐ *“Turning data into insights, and insights into impact.”*
+⭐ *“Transforming data into business insights.”*
