@@ -1,4 +1,3 @@
-[![MasterHead](https://copilot.microsoft.com/th/id/BCO.90e1b776-9199-40f5-8c77-236d418b5b1f.png)](https://www.linkedin.com/in/pooja-chauhan04)
 
 <h1 align="center">Hi 👋, I'm Pooja Chauhan</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau | Excel</h3>
@@ -52,25 +51,8 @@
 
 ### 🎓 Education & Certifications
 - **Bachelor of Commerce (2018–2021)**  
-- **Data Analytics with AI — Uncodemy (Oct 2025 – Jul 2026)**  
-- **Data Analyst Internship — Apana Time (Mar 2026 – Jul 2026)**
+- **Data Analytics with AI — Uncodemy**  
 
----
-
-### 🚀 Featured Projects
-
-#### 🩺 Heart Failure Prediction (Machine Learning)
-- Cleaned & engineered medical data for model training using Python.  
-- Built Decision Tree & Random Forest models achieving **88.9% accuracy**.  
-- Tools: Python, Pandas, Scikit-learn, Seaborn  
-
-#### 💰 Financial Reporting & Analysis (Power BI)
-- Designed interactive Power BI dashboards showing Profit & Loss, KPIs, and time-based trends.  
-- Automated financial reports using DAX & calculated columns.  
-
-#### 🚴 Bike Sales Dashboard (Excel)
-- Built Excel dashboard for sales trends, regional performance, and profit analysis.  
-- Automated monthly reporting using Excel Macros.
 
 ---
 
