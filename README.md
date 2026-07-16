@@ -30,22 +30,6 @@
 #### 🗄️ Database & Cloud Technologies
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 📊 Analytics Skills
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge)
-
-#### ⚙️ Automation & Tools
-![Excel Macros](https://img.shields.io/badge/Excel%20Macros-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Xlwings](https://img.shields.io/badge/Xlwings-00A4EF?style=for-the-badge)
-![Python Scripts](https://img.shields.io/badge/Python%20Scripts-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 💬 Soft Skills
-🧠 Analytical Thinking 📊 Data Storytelling 🤝 Collaboration 🕒 Time Management 💡 Problem Solving
 
 ---
 
